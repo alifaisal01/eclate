@@ -1,7 +1,7 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: Our Process
+title: Our Services
 description: Although we are technology company, we are very human-centric. Our approach to each project is similar yet very unique and this is why!
 services:
   - icon: ti-user
