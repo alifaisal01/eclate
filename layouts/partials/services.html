@@ -9,6 +9,11 @@
                 {{ .title }}
               </h2>
               <p> {{ .description }} </p>
+              <div class="see-all-post col-12">
+                <a href="{{ "ourservices" | absURL }}" data-text="{{ .servicesButtonText }}" class="btn btn-primary">
+                <span>{{ .servicesButtonText }}</span>
+                </a>
+              </div>
             </div>
           </div>
           {{ $services := .services }}
