@@ -1,16 +1,17 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: You can benefit more than you think
+title: Our Process
+description: Although we are technology company, we are very human-centric. Our approach to each project is similar yet very unique and this is why!
 services:
+  - icon: ti-user
+    title: Discory
+    description: TWe discover your story first, we do user resaerch and create solution report
+
   - icon: ti-settings
-    title: No Setup
-    description: They generate alignment and engagement
+    title: Swift Prototyping
+    description: We utilize accumulated knowledge. Use cases. Create wireframes
 
-  - icon: ti-check-box
-    title: Free Trial
-    description: They generate alignment and engagement
-
-  - icon: ti-key
-    title: Quick Access
-    description: They generate alignment and engagement
+  - icon: ti-target
+    title: Implementation
+    description: Step by step implementation. Technical Support each step of the way
