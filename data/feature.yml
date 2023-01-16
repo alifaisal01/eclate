@@ -5,10 +5,9 @@ description: Data help us tell a compelling story. We create data-driven tools a
 description2: We are excited to transform your ideas into action. We can create a minimum viable product for you in the shortest amount of time. Our goal is create a tangible product that we can market ASAP
 buttonText: Contact us
 Title2nd: We design and deliver solutions to automate your processes
-description2nd: We have great depth and working knowledge of Automation tools. with our sophisticated and intelligent tools we can quickly get your manual taks automated so you can take on the other challengeing projects.
 image1: images/feature/feature-illustration-one.svg
 image2: images/feature/feature-illustration-two.svg
 checkItem:
-  - text: Next to the hosting account you want to use.
-  - text: Select or enter the domain name you want to use.
-  - text: After you purchase a hosting plan.
+  - text: Task and process Solution design that your team perform manually
+  - text: Implementation with the right solution that fits the budget and timeline.
+  - text: Continous monitoring and alerting to detect anamolies.

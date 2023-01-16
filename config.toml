@@ -15,7 +15,7 @@ theme = "apsho"
     weight = 2
 [[menu.main]]
     name = "Services"
-    url = "#faq"
+    url = "#service"
     weight = 3
 [[menu.main]]
     name = "Blog"
