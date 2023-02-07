@@ -10,7 +10,7 @@ blogImage: images/blog/automation.jpg
 By definition, automation is a technology by which a process can be performed with minimal human intervention1.
 Using advancement in technology and the extreme low cost of building and deploying software tools to perform routine rule-based service processes, organisations are achieving tremendous productivity gains. Intelligently put together teams of software robots and human employees can cut down costs, reduce time to respond and increase customer satisfaction.
 
-![blog image](/images/blog/automation.jpg)
+
 There are three different type of process automation basic, intermediate and advanced. In this article we will look at how automation can help improve front office or back office rule-based processes. Provide use cases, with how it helped organizations improve their processes and reduce costs.
 
 ### Basic
