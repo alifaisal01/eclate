@@ -4,6 +4,7 @@ date: 2023-01-15T20:18:07+06:00
 featureImage: images/blog/automation.jpg
 author: Ali Faisal
 authorThumb: images/client/Ali.jpg
+blogImage: images/blog/automation.jpg
 ---
 
 By definition, automation is a technology by which a process can be performed with minimal human intervention1.
