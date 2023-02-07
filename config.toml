@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://eclate.us"
 languageCode = "en-us"
 title = "Eclate | Technology Consulting"
 theme = "apsho"
@@ -32,10 +32,6 @@ theme = "apsho"
     url = "/blog"
     weight = 2
 [[menu.sitemap]]
-    name = "Privacy & Policy"
-    url = "/privacy"
-    weight = 3
-[[menu.sitemap]]
     name = "Contact"
     url = "/contact"
     weight = 4
@@ -58,7 +54,7 @@ github = "https://github.com/eclate"
 logo = "images/logo.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = "UA-175025671-2"
-
+favicon = "images/favicon.ico"
 # Footer
 footerTitle = "Get the latest app updates"
 copyright1 = "All right reserved"
