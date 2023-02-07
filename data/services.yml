@@ -7,11 +7,11 @@ description: Although we are technology company, we are very human-centric. Our 
 services:
   - icon: ti-user
     title: Discory
-    description: TWe discover your story first, we do user resaerch and create solution report
+    description: We discover your story first, we do user resaerch and create solution report
 
   - icon: ti-settings
     title: Swift Prototyping
-    description: We utilize accumulated knowledge. Use cases. Create wireframes
+    description: We utilize accumulated knowledge, Use cases and Create wireframes
 
   - icon: ti-target
     title: Implementation
