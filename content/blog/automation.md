@@ -2,7 +2,7 @@
 title: "Automation, types and its implementation"
 date: 2023-01-15T20:18:07+06:00
 featureImage: images/blog/automation.jpg
-author: Ali Faisal
+author: Ali 
 authorThumb: images/client/Ali.jpg
 blogImage: images/blog/automation.jpg
 ---
