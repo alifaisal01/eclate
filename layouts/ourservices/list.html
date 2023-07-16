@@ -19,11 +19,11 @@
       {{ range (.Paginator 6).Pages }}
         <div class="col-lg-4 col-md-6">
           <article class="blog-post-item">
-            <div class="blog-post-thumb">
+            <!--<div class="blog-post-thumb">
               <a href="{{ .Permalink }}">
                 <img src="{{ .Params.featureImage | absURL }}" alt="blog-thumb"
               /></a>
-            </div>
+            </div>-->
             <div class="blog-post-content">
               <h2>
                 <a href="{{ .Permalink }}"
@@ -31,12 +31,12 @@
                 >
               </h2>
               <div class="post-author">
-                <div class="thumb">
+                <!--<div class="thumb">
                   <img src="{{ .Params.authorThumb | absURL }}" alt="author-thumb" />
-                </div>
+                </div>-->
                 <div class="meta">
-                  <h3>{{ .Params.author }}</h3>
-                  <p>{{ .PublishDate.Format "January 2, 2006" }}</p>
+                  <p>{{ .Params.description }}</p>
+
                 </div>
               </div>
             </div>
