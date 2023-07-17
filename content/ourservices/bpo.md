@@ -14,4 +14,4 @@ Outsource your processes.
 
 
 
-__Eclate__, reach out to use at (339) 298 7523 or e mail ali@eclate.us
+__Eclate__, reach out to us at (339) 298 7523 or e mail ali@eclate.us
