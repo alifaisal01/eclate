@@ -16,23 +16,23 @@ Make your presense known on the web. A web site is your key to online presence. 
 
 **SEO**
 
-Implement best practices for Search engine Optimization for search engines to find and present your content.
+Search Engine Optamization is crucial for all businesses. It not only help you grow, it helps sustain the growth and improve revenue. Implement best practices for Search engine Optimization for search engines to find and present your content.
 
 **Branding**
 
-Create media for your web and mobile applications. Images icons and web site design
+Branding is critically important for businesses as it plays a crucial role in shaping the perception of a company, its products, and its services in the minds of consumers. Let us help you create that image through your web and mobile applications. 
 
 **Content creation**
 
-We have number of content creators to write for you
+Content creation is a fundamental aspect of modern business and marketing strategies. It involves producing valuable, relevant, and engaging material that is aimed at attracting, informing, and engaging your target audience. We have a team of expert content creators ready to create for you!
 
 **Social Media presence and marketing**
 
-Advertise on the social media
+Improving social media presence and marketing involves a combination of strategies and tactics to effectively engage your target audience, build brand awareness, and drive desired outcomes. Eclate can help you create that strategic Marketing Plan that will help you achieve your business goals. 
 
 **Cloud and Edge computing**
 
-we build application for the cloud. Applications are cloud native by nature and become available in matter of seconds. Manintenance and enhanceent is a breeze. Scalibility and availibility is embedded in every application we design and deploy.
+cloud computing and edge computing are complementary technologies that address different aspects of data processing and management. Cloud computing offers scalability, accessibility, and processing power, while edge computing addresses low-latency, privacy, and real-time processing requirements. Businesses benefit from a hybrid approach that leverages both cloud and edge computing to optimize their operations and provide the best possible user experiences. At Eclate, we build application for the cloud. Applications are cloud native by nature and become available in matter of seconds. Manintenance and enhanceent is a breeze. Scalibility and availibility is embedded in every application we design and deploy.
 
 **Back Office Applications and components**
 
