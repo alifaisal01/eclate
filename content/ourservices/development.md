@@ -38,4 +38,4 @@ we build application for the cloud. Applications are cloud native by nature and 
 
 Write custom software to build workflows and automate your processes. Every business is unique and processes you have may not align with standard processes comes in packaged software. At **Eclate** we have extensive experience building fit for purpose software epplications. We can build automation around your processes so you dont have to manually. Automation provide you opportunity to go do things that help grow your business.
 
-__Eclate__, reach out to us at (339) 298 7523 or e mail ali@eclate.us
+__Eclate__, reach out to us at ali@eclate.us

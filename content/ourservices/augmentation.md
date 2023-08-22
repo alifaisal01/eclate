@@ -39,4 +39,4 @@ How can we help you collect data from customers, data for your processes. Normal
 
 Data tells a compelling story. What is your data telling you. Let us help analyze collection of your data. to find isights on your customers interaction with your systems. Your employees interaction and efficiency. 
 
-__Eclate__, reach out to us at (339) 298 7523 or e mail ali@eclate.us
+__Eclate__, reach out to us at ali@eclate.us
